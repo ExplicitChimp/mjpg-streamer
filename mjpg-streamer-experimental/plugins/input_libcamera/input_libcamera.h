@@ -1,5 +1,5 @@
-#ifndef INPUT_LIBCAERA_H_
-#define INPUT_LIBCAERA_H_
+#ifndef INPUT_LIBCAMERA_H_
+#define INPUT_LIBCAMERA_H_
 
 #ifdef __cplusplus
 extern "C" {
